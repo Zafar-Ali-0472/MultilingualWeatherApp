@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">متعدد الزبان موسمی برنامج</string>
+    <string name="Precision">خود کو بصورت کی ساتھ تلاش کریں</string>
+    <string name="enter_city_name">شہر کا نام درج کریں</string>
+    <string name="button">داخل کریں</string>
+    <string name="Location">آپ کا مقام ہے</string>
+    <string name="Temperature">درجہ حرارت (C)</string>
+    <string name="MinTemperature">کم درجہ حرارت (C)</string>
+    <string name="MaxTemerature">زیادہ درجہ حرارت (C)</string>
+    <string name="Pressure">دباؤ</string>
+    <string name="Humidity">نمی</string>
+    <string name="Visibility">دیکھنے کی صلاحیت</string>
+    <string name="WindSpeed">ہوا کی رفتار</string>
+</resources>

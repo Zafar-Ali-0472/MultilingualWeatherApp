@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Application Météo Multilingue</string>
+    <string name="Precision">Trouvez-vous avec précision</string>
+    <string name="enter_city_name">Entrez le nom de la ville</string>
+    <string name="button">Entrer</string>
+    <string name="Location">Votre emplacement est</string>
+    <string name="Temperature">Température(C)</string>
+    <string name="MinTemperature">Température Min(C)</string>
+    <string name="MaxTemerature">Température Max(C)</string>
+    <string name="Pressure">Pression</string>
+    <string name="Humidity">Humidité</string>
+    <string name="Visibility">Visibilité</string>
+    <string name="WindSpeed">Vitesse du vent</string>
+</resources>

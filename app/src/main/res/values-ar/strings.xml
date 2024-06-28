@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">تطبيق الطقس متعدد اللغات</string>
+    <string name="Precision">ابحث عن نفسك بدقة</string>
+    <string name="enter_city_name">أدخل اسم المدينة</string>
+    <string name="button">إدخال</string>
+    <string name="Location">موقعك هو</string>
+    <string name="Temperature">درجة الحرارة (C)</string>
+    <string name="MinTemperature">أدنى درجة حرارة (C)</string>
+    <string name="MaxTemerature">أقصى درجة حرارة (C)</string>
+    <string name="Pressure">الضغط</string>
+    <string name="Humidity">الرطوبة</string>
+    <string name="Visibility">الرؤية</string>
+    <string name="WindSpeed">سرعة الرياح</string>
+</resources>

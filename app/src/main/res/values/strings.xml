@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multilingual Weather App</string>
+    <string name="Precision">Find yourself with precision</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="button">Enter</string>
+    <string name="Location">Your Location is</string>
+    <string name="Temperature">Temperature(C)</string>
+    <string name="MinTemperature">Min Temperature(C)</string>
+    <string name="MaxTemerature">Max Temperature(C)</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Visibility">Visibility</string>
+    <string name="WindSpeed">Wind Speed</string>
+</resources>
